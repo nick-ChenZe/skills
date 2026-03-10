@@ -7,6 +7,7 @@ export type AgentType =
   | 'cline'
   | 'codebuddy'
   | 'codex'
+  | 'comate'
   | 'command-code'
   | 'continue'
   | 'cortex'
